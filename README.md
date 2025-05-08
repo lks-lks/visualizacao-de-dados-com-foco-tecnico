@@ -26,7 +26,7 @@ Os dados são gerados artificialmente com as seguintes características:
 
 ## Tecnologias utilizadas
 
-- Python 3
+- Python
 - Pandas
 - Numpy
 - Faker
